@@ -1,0 +1,179 @@
+head	1.6;
+access;
+symbols;
+locks;
+comment	@# @;
+
+
+1.6
+date	99.10.11.06.30.22;	author karl;	state Exp;
+branches;
+next	1.5;
+
+1.5
+date	99.10.11.05.59.44;	author karl;	state Exp;
+branches;
+next	1.4;
+
+1.4
+date	99.05.09.22.20.20;	author karl;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	99.03.05.03.16.28;	author karl;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	98.01.26.02.00.57;	author karl;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	97.12.08.00.26.41;	author karl;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.6
+log
+@minor footer
+@
+text
+@<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<html> <head>
+<title>Fred Nemo, Wheelman.</title>
+<link rev=made href="mailto:megulon5@@dclxvi.org">
+<link rel=start href="dclxvi.org:companions/">
+</head>
+
+<body>
+<h1 align=center>Fred Nemo, Wheelman.</h1>
+
+<p align=center>
+<img WIDTH=101 HEIGHT=137 src="image/nemoride075.jpg">
+<img WIDTH=80 HEIGHT=136 src="image/nemoride175.jpg">
+<img WIDTH=79 HEIGHT=137 src="image/nemoride275.jpg">
+</p>
+
+<p>
+I knew who Fred Nemo was because he helped organize the (successful!)
+Portland
+Critical Mass lawsuit against the cops, and compiled a little book of
+information about the case for us.  We didn't quite recognize each other,
+however, when Bucephalus and I were zipping downhill on Roosevelt
+Ave. in Seattle, while he and his bike were cruising uphill.  He gave me a
+wave, however, and I was startled enough to turn around and catch up
+to him.  Turns out he's a little extra-friendly to other
+posture-conscious cyclists.
+</p>
+
+<p align=center>
+<img WIDTH=113 HEIGHT=135 src="image/nemotech075.jpg">
+<img WIDTH=113 HEIGHT=137 src="image/nemotech175.jpg">
+<img WIDTH=176 HEIGHT=135 src="image/nemotech275.jpg">
+</p>
+
+<p>
+Mr. Nemo knows well the pleasures of upright cycling, and has modified
+his ride accordingly.  His front handlebar is a single lever, about
+half a foot above saddle height.  It acts like a very short tiller.
+Because upright cycling tends to unload the front wheel, this handle
+is quite adequate to turn the wheel without wrist strain.
+Another handle is attached to the seatstays, and it is here that the
+rear brake lever is placed.  Fred usually uses this when riding down
+hills or when a little extra stability is required.  The record jacket
+inside the front triangle is used to store important documents.
+</p>
+
+<p>
+The experienced cyclist will surely note that this is not a wheel to
+take when battling traffic or whizzing between busses.  The cyclist
+who is well-rounded as well as experienced, however, will add that
+there is much more to life than a constant crouch over one's
+handlebars.
+</p>
+
+<p>
+I have seen Fred zig and zag at the head of a Critical
+Mass column, and I have seen the similarly modified Bianchi folder
+that he rode through Europe while touring with Hazel, and I can only
+feel privileged to witness the inspiring and unique riding style
+exemplified by Fred Nemo, Wheelman.
+</p>
+
+<hr noshade>
+<address>
+<a href="../../index.html">The Wheeled Companions</a>.  By
+<a href="http://www.dclxvi.org/megulon5/">Megulon-5</a>
+<a href="mailto:megulon5@@dclxvi.org">&lt;megulon5@@dclxvi.org&gt;</a>.
+</address>
+
+</body> </html>
+@
+
+
+1.5
+log
+@megulon-5 url fix
+@
+text
+@d66 1
+d68 1
+a68 1
+<a href="mailto:megulon5@@dclxvi.org">&lt;megulon5@@dclxvi.org&gt;</a>
+@
+
+
+1.4
+log
+@updated headers, footers
+@
+text
+@d66 1
+a66 1
+<a href="http://www.dclxvi.org/~megulon5/">Megulon-5</a>
+@
+
+
+1.3
+log
+@logtree
+@
+text
+@d1 2
+d5 2
+d65 4
+a68 3
+<address><a href="http://www.reed.edu/~karl/copyright.html">copyright</a>
+<a HREF="http://www.reed.edu/~karl/">Karl Anderson</a>
+<a href="mailto:karl@@reed.edu">&lt;karl@@reed.edu&gt;</a></address>
+a69 1
+<img src="http://www.monkey.org/~kra/logtree/wheel/nemo/index.html.gif">
+@
+
+
+1.2
+log
+@minor edit
+@
+text
+@d65 1
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d15 2
+a16 1
+I knew who Fred Nemo was because he helped organize the Portland
+@

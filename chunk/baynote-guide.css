@@ -1,0 +1,90 @@
+/* reset all child divs padding and margin spacing */
+div#content_productgroup.moreIdeas div {
+	margin: 0px;
+	padding: 0px;
+}
+
+/* horizontal line */
+.bn_g_horizontal .bn_g_area {
+	width: auto;
+}
+
+.bn_g_horizontal .bn_g_result {
+	float: left;
+}
+
+/* non-baynote recommendations */
+#bn_non_baynote_recs {
+	display: none;
+	height: 140px;
+	overflow: hidden;
+}
+
+/* baynote recommendations */
+#bn_baynote_recs {
+	display: block;
+}
+
+#bn_baynote_recs .bn_g_result_image img {
+	height: 102px;
+	width: 68px;
+	overflow: hidden;
+}
+
+.bn_g_result a {
+	float: left;
+	margin: 10px 2px 0px 0px;
+}
+
+.bn_g_welcome {
+	text-transform: uppercase;
+	width: 70px;
+	height: 12px;
+	overflow: hidden;
+	font-weight: normal;
+	background: #000000;
+	color: #ffffff;
+	font-size: 10px;
+	padding: 1px 0px 0px 4px !important;
+	border-bottom: solid 1px #000000;
+}
+
+.bn_g_results_list {
+	border-top: solid 1px #000000;
+	height: 120px;
+	list-style-type: none;
+	overflow: hidden;
+}
+
+.bn_g_result_attr1 {
+	color: #a34100;
+	font-weight: bold;
+}
+
+.bn_g_result_terms {
+	display: none;
+}
+
+.bn_g_details {
+	clear: left;
+	color: #666666;
+}
+
+.bn_g_footer{
+	clear: left;
+	display: none;
+}
+
+.bn_g_result_title {
+	display: none;
+}
+
+.bn_g_details {
+	display: none;
+}
+
+.bn_g_footer a {
+	padding: 0px 2px 2px 0px;
+	color: #666666;
+	font-weight: normal;
+}

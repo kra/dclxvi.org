@@ -1,0 +1,62 @@
+head	1.2;
+access;
+symbols;
+locks;
+comment	@# @;
+
+
+1.2
+date	99.04.13.01.52.42;	author karl;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	99.04.05.02.10.04;	author karl;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.2
+log
+@weblint
+@
+text
+@<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html> <head>
+<title>About Megulon-5.</title>
+<link rev=made href="mailto:megulon5@@dclxvi.org">
+</head>
+
+<body>
+<h1>About Megulon-5.</h1>
+
+<p>
+Megulon 5 is the remnant of an early protohuman intelligence
+which has somehow traveled forward in time to deliver important ideas
+to the people of today.  While his writings were once attributed to
+<a href="http://www.monkey.org/~kra/">Karl Anderson</a>,
+he is an entirely separate person, really, and 
+and thanks you for paying attention.
+</p>
+
+<hr noshade>
+<address>
+Megulon 5
+<a href="mailto:megulon5@@dclxvi.org">&lt;megulon5@@dclxvi.org&gt;</a>
+</address>
+
+</body> </html>
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d4 1
+@

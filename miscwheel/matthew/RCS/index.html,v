@@ -1,0 +1,149 @@
+head	1.4;
+access;
+symbols;
+locks;
+comment	@# @;
+
+
+1.4
+date	99.10.11.06.39.11;	author karl;	state Exp;
+branches;
+next	1.3;
+
+1.3
+date	99.10.11.06.16.39;	author karl;	state Exp;
+branches;
+next	1.2;
+
+1.2
+date	99.10.11.05.59.44;	author karl;	state Exp;
+branches;
+next	1.1;
+
+1.1
+date	99.09.12.21.41.17;	author karl;	state Exp;
+branches;
+next	;
+
+
+desc
+@@
+
+
+1.4
+log
+@link fix
+@
+text
+@<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
+"http://www.w3.org/TR/REC-html40/loose.dtd">
+<html> <head>
+<title>Matthew Schekel.</title>
+<link rev=made href="mailto:kra@@monkey.org">
+<link rel=start href="http://www.dclxvi.org/companions/">
+</head>
+
+<body>
+<h1 align=center>Matthew Schekel.</h1>
+
+<p>
+I never met Matthew Schekel, but I rode on the Critical Mass that
+served as his memorial ride, and I pass the spot where he was killed
+whenever I'm nearby - SE 37th and Taylor in Portland.  The bike
+and helmet that he was using when
+he died are there as part of a memorial.
+</p>
+
+<p align=center>
+<img src="image/memorial75.jpg">
+</p>
+
+<p>
+I don't think that it's my place to use Matthew as a figurehead for
+my personal cycling program, since I don't know what he'd think about
+it.  On the other hand, this happened to him in my neighborhood, while
+he was doing something that I do there every day.  Surely everyone who
+is trying to make the world a little less fucked-up has a right to
+point out how fucked-up things really are.
+</p>
+
+<p>
+Matthew was killed for the stupidest reason in the world.  He was
+riding through an intersection where the cross-traffic had a stop
+sign, and he didn't.  A
+<a href="http://www.sheridanfruit.com">Sheridan Fruit</a>
+truck was going the other way.
+The driver didn't stop, claims that he didn't see him, and that was
+looking for cars, not cyclists.  Matthew was killed on the spot.
+</p>
+
+<p>
+He died because it was business as usual for that truck driver.
+You've seen it everywhere - many drivers prefer to save a few seconds
+of travel time, even if it means some unlucky person might get
+killed.  This driver was charged with reckless driving, with a maximum
+fine of 300 dollars.
+</p>
+
+<p>
+I remember that whenever I'm riding down Hawthorne, a four
+lane street two blocks from Taylor.  I take a lane, because it isn't
+safe to ride right next to the parked cars.  Motorists are often
+annoyed by this, and every once in a while, I get yelled at to &quot;stop
+blocking traffic&quot;.  I am traffic!  One guy told me that there
+were quieter streets a block over - like Taylor - where I should be
+riding.  Why wasn't he on that street?  Why should I have to stop at
+ten stop signs, and stop again at ten more intersections where cross
+traffic should stop but won't?  To save time for some stupid drivers,
+alone in their
+cars?  Is their time more important than mine?  Is their time more
+important than everyone
+who gets killed by a careless driver?
+</p>
+
+<hr noshade>
+<address>
+<a href="http://www.monkey.org/~kra">Karl Anderson</a>
+<a href="mailto:kra@@monkey.org">&lt;kra@@monkey.org&gt;</a>
+</address>
+
+</body> </html>
+@
+
+
+1.3
+log
+@moved from megulon to kra
+@
+text
+@d6 1
+a6 1
+<link rel=start href="www.dclxvi.org/companions/">
+@
+
+
+1.2
+log
+@megulon-5 url fix
+@
+text
+@d5 2
+a6 2
+<link rev=made href="mailto:megulon5@@dclxvi.org">
+<link rel=start href="dclxvi.org:companions/">
+d69 2
+a70 2
+<a href="http://www.dclxvi.org/megulon5/">Megulon-5</a>
+<a href="mailto:megulon5@@dclxvi.org">&lt;megulon5@@dclxvi.org&gt;</a>
+@
+
+
+1.1
+log
+@Initial revision
+@
+text
+@d69 1
+a69 1
+<a href="http://www.dclxvi.org/~megulon5/">Megulon-5</a>
+@
